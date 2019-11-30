@@ -266,6 +266,7 @@
     #define FAN_PIN        RAMPS_D9_PIN
   #endif
 #endif
+#undef FAN_PIN
 
 //
 // Misc. Functions
